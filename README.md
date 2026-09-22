@@ -1,27 +1,46 @@
-﻿<h1 align="center">Hi, I'm Gabriel Mota 👋</h1>
+﻿<div align="center">
 
-<h3 align="center">
-IT Infrastructure • IT Support • Endpoint Management • Microsoft 365
-</h3>
+# Gabriel Mota
 
-<p align="center">
-Technology professional focused on IT infrastructure, technical support,
-endpoint management and practical technology projects.
-</p>
+### IT Infrastructure • IT Support • Endpoint Management • Microsoft 365
+
+Technology professional focused on IT infrastructure, technical support and endpoint management, while building practical projects to expand my skills in automation, software quality and modern technology workflows.
+
+📍 Portugal
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🖥️ Experience with IT Support and Infrastructure
-- 🏢 Working with store technology infrastructure and IT operations
-- 💻 Windows 10/11 troubleshooting and endpoint support
-- ☁️ Microsoft 365 environments
-- 🌐 Networking and hardware troubleshooting
-- 📚 Currently developing skills in Microsoft Intune and Endpoint Management
-- 🧪 Exploring Software QA and testing
-- 🤖 Using AI-assisted development tools to build practical projects
-- 🇵🇹 Based in Portugal
+- 🖥️ IT Support & Infrastructure professional
+- 🏢 Experience supporting store technology infrastructure and IT operations
+- ☁️ Microsoft 365, Windows and endpoint troubleshooting
+- 🌐 Networking, hardware and technical incident resolution
+- 📚 Currently developing skills in Microsoft Intune, Endpoint Management and Software QA
+
+---
+
+## 🛠️ Core Technologies
+
+![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Administration-D83B01)
+![Intune](https://img.shields.io/badge/Microsoft%20Intune-Endpoint%20Management-0078D4)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032)
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717)
+![QA](https://img.shields.io/badge/Software%20QA-Testing-2EA44F)
+
+### Infrastructure & Support
+
+`Windows 10/11` `Microsoft 365` `Active Directory` `Microsoft Intune`  
+`ServiceNow` `Endpoint Management` `Networking` `Hardware Troubleshooting`
+
+### Development & Workflow
+
+`Git` `GitHub` `PowerShell` `HTML` `CSS` `TypeScript`  
+`VS Code` `Pull Requests` `Technical Documentation`
 
 ---
 
@@ -29,56 +48,36 @@ endpoint management and practical technology projects.
 
 ### 🛒 Portal Símbolo
 
-Web portal created as a practical project to develop modern software delivery
-and GitHub workflow skills.
+Practical web project used to develop modern GitHub and software delivery workflows.
 
-**Highlights:**
+**What I worked with:**
 
-- Responsive interface
-- Git and GitHub workflow
+- Responsive interface development
+- Git and GitHub version control
 - Feature branches
-- Pull Requests
-- Code review workflow
+- Pull Requests and merge workflow
 - Technical documentation
 - Visual previews and responsive screenshots
-- AI-assisted development
+- AI-assisted development workflow
 
-🔗 [View repository](https://github.com/Bertholdoga/portal-simbolo-demo)
+**Repository:**  
+[github.com/Bertholdoga/portal-simbolo-demo](https://github.com/Bertholdoga/portal-simbolo-demo)
 
 ---
 
 ### 🏠 Nexocasa
 
-Web project focused on expanding my practical experience with modern
-development workflows and TypeScript.
+Web project focused on expanding my practical experience with modern development workflows and TypeScript.
 
-🔗 [View repository](https://github.com/Bertholdoga/nexocasa)
+**Focus:**
 
----
-
-## 🛠️ Technologies & Tools
-
-### IT Infrastructure
-
-- Windows 10 / 11
-- Microsoft 365
-- Active Directory
-- Microsoft Intune
-- ServiceNow
-- Endpoint Management
-- Hardware troubleshooting
-- Networking
-
-### Development & Workflow
-
-- Git
-- GitHub
-- HTML
-- CSS
 - TypeScript
-- VS Code
-- PowerShell
-- AI-assisted development
+- Git & GitHub
+- Project organization
+- Practical software development
+
+**Repository:**  
+[github.com/Bertholdoga/nexocasa](https://github.com/Bertholdoga/nexocasa)
 
 ---
 
@@ -87,39 +86,30 @@ development workflows and TypeScript.
 - Microsoft Intune
 - MD-102 / Endpoint Administrator
 - Windows Endpoint Management
-- Git & GitHub professional workflows
-- Software QA
-- Web Development
+- Professional Git & GitHub workflows
+- Software QA and testing
+- PowerShell and automation
 - AI-assisted software development
 
 ---
 
 ## 🎯 Professional Focus
 
-I am continuously expanding my technical background through practical
-projects while strengthening my experience in:
+My main professional areas are:
 
-**IT Support • Infrastructure • Endpoint Management • Microsoft 365 • QA**
+**IT Support • IT Infrastructure • Endpoint Management • Microsoft 365**
 
----
-
-## 📊 GitHub
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bertholdoga&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bertholdoga&layout=compact&hide_border=true)
+I'm also expanding my skills in **Software QA, automation and practical software development** to strengthen my technical background and troubleshooting capabilities.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to opportunities related to:
+I'm open to opportunities in:
 
-- IT Support
-- Service Desk
-- IT Infrastructure
-- Endpoint Management
-- Microsoft 365
-- Software QA
+**IT Support · Service Desk · IT Infrastructure · Endpoint Management · Microsoft 365 · Software QA**
 
 📍 Portugal
+
+[![GitHub](https://img.shields.io/badge/GitHub-Bertholdoga-181717)](https://github.com/Bertholdoga)
+
